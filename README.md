@@ -3,6 +3,7 @@ Full Stack Developer from São Paulo, Brazil. I began programming with Java in 2
 <h3 align="left">Connect with me</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-ferreira-diniz-8045691a4/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@victor4591/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:victorfd80@gmail.com)
 
 <h3 align="left">GitHub Stats</h3>
