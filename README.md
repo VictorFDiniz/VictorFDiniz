@@ -12,8 +12,8 @@ ________________________________________________________________________________
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![BashScript](https://img.shields.io/badge/bash%20script-0101?style=flat&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000)>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white)  ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![BashScript](https://img.shields.io/badge/bash%20script-0101?style=for-the-badge&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white) 
 
 #### Frameworks and libraries:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
