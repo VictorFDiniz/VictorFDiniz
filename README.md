@@ -1,7 +1,5 @@
 <div align="center">
 
-# Victor Ferreira Diniz
-
 Full Stack Developer from São Paulo, Brazil. I began programming with Java in 2015, starting with the "Java Progressivo" course. In 2017, I had my first contact with Linux when I began studying pentest. In the middle of 2018, I started studying web development. Since then, I have studied HTML/CSS, JavaScript, Java, Bootstrap, TypeScript, Shell Script, Linux, Docker, React, React Native, and Next.js. Currently, I am delving deeper into Python and Java for backend development.
 
 __________________________________________________________________________________________________________________
@@ -24,6 +22,7 @@ ________________________________________________________________________________
 #### Other Technologies:
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -34,6 +33,8 @@ ________________________________________________________________________________
 
 <table cellpadding="0">
   <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=VictorFDiniz&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
     <!-- GitHub Top Language Card -->
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFDiniz&layout=compact&theme=radical&custom_title=Languages"/></td>
   </tr>
