@@ -1,9 +1,10 @@
-<div align="center">
+
 
 
 Full Stack Developer from São Paulo, Brazil. I began programming with Java in 2015, starting with the "Java Progressivo" course. In 2017, I had my first contact with Linux when I began studying pentest. In the middle of 2018, I started studying web development. Since then, I have studied HTML/CSS, JavaScript, Java, Bootstrap, TypeScript, Shell Script, Linux, Docker, React, React Native, and Next.js. Currently, I am delving deeper into Python and Java for backend development.
 
 __________________________________________________________________________________________________________________
+<div align="center">
 
 #### Programming and Markup Languages:: 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -35,9 +36,9 @@ ________________________________________________________________________________
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=VictorFDiniz&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=VictorFDiniz&show_icons=true&theme=tokyonight#gh-dark-mode-only"/></td>
     <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFDiniz&layout=compact&theme=radical&custom_title=Languages"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFDiniz&layout=compact&theme=tokyonight&custom_title=Languages"/></td>
   </tr>
 </table>
 
