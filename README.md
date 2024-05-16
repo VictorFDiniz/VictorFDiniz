@@ -1,5 +1,5 @@
 
-Full Stack Developer from São Paulo, Brazil. I began programming with Java in 2015, starting with the "Java Progressivo" course. In 2017, I had my first contact with Linux when I began studying pentest. In the middle of 2018, I started studying web development. Since then, I have studied HTML/CSS, JavaScript, Java, Bootstrap, TypeScript, Shell Script, Linux, Docker, React, React Native, and Next.js. Currently, I am delving deeper into Python and Java for backend development.
+Full Stack Developer from São Paulo, Brazil. I began programming with Java in 2015, starting with the "Java Progressivo" course. In 2017, I had my first contact with Linux when I began studying pentest. In the middle of 2018, I started studying web development. Since then, I have studied HTML/CSS, JavaScript, Java, Bootstrap, TypeScript, Shell Script, Linux, Docker, React, React Native, and Next.js. Currently, I am delving deeper into Python for automation and Java for backend development.
 
 __________________________________________________________________________________________________________________
 <div align="center">
