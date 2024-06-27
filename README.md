@@ -1,5 +1,5 @@
 
-Full Stack Developer from São Paulo, Brazil. I began programming with Java in 2015, starting with the "Java Progressivo" course. In 2017, I had my first contact with Linux when I began studying pentest. In the middle of 2018, I started studying web development. Since then, I have studied HTML/CSS, JavaScript, Java, Bootstrap, TypeScript, Shell Script, Linux, Docker, React, React Native, and Next.js. Currently, I am delving deeper into Python for automation and Java for backend development.
+Full Stack Developer from São Paulo, Brazil. I began programming with Java in 2015, starting with the "Java Progressivo" course. In 2017, I had my first contact with Linux when I began studying pentest. In the middle of 2018, I started studying web development. Since then, I have studied HTML/CSS, JavaScript, Java, Bootstrap, TypeScript, Shell Script, Linux, Docker, React, React Native, and Next.js. Currently, I am delving deeper into Python for backend development
 
 __________________________________________________________________________________________________________________
 <div align="center">
@@ -11,7 +11,6 @@ ________________________________________________________________________________
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![BashScript](https://img.shields.io/badge/bash%20script-0101?style=for-the-badge&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white) 
 
 #### Frameworks and libraries:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
